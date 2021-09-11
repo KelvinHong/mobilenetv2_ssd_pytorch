@@ -1,3 +1,5 @@
 https://drive.google.com/drive/folders/1XgKqHQRJkIsdymtE5b3UM7QbVVLbtVXX?usp=sharing
 
 Open the Google Drive link above, download the .onnx and .pth file into this directory. 
+
+We are doing this because the model file is too large for uploading to github.
